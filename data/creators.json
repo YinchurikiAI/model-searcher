@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "aria-blaze",
+    "name": "Aria Blaze",
+    "img": "https://via.placeholder.com/600x400?text=Aria",
+    "bio": "Fitness creator.",
+    "tags": ["fitness"],
+    "links": { "profile": "https://example.com/a" }
+  },
+  {
+    "slug": "nova-kit",
+    "name": "Nova Kit",
+    "img": "https://via.placeholder.com/600x400?text=Nova",
+    "bio": "Cosplay & gaming.",
+    "tags": ["cosplay", "gaming"],
+    "links": { "profile": "https://example.com/n" }
+  }
+]
