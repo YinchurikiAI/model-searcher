@@ -1,0 +1,5 @@
+[
+  { "slug": "fitness", "name": "Fitness", "description": "Athletic & training" },
+  { "slug": "cosplay", "name": "Cosplay", "description": "Cosplay & costumes" },
+  { "slug": "gaming",  "name": "Gaming",  "description": "Streamers & gamers" }
+]
